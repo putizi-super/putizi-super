@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### 📊 My GitHub Stats
 
 <div align="center">
-    <a href="https://github.com/HandH1998">
+    <a href="https://github.com/putizi-super">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=HandH1998&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Your Name's github stats" />
     </a>
 </div>
