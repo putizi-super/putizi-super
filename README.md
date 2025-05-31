@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 <div align="center">
     <a href="https://github.com/putizi-super">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=HandH1998&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Your Name's github stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=putizi-super&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Your Name's github stats" />
     </a>
 </div>
